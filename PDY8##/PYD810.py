@@ -1,0 +1,2 @@
+
+cunot = eval(input())
